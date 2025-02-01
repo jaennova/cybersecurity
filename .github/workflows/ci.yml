@@ -1,0 +1,32 @@
+name: CI/CD Pipeline
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      # Verificación de markdown
+      - name: Markdown Lint
+        uses: avto-dev/markdown-lint@v1
+        
+      # Verificación de enlaces rotos
+      - name: Check Links
+        uses: gaurav-nelson/github-action-markdown-link-check@v1
+        
+      # Escaneo de seguridad
+      - name: Security Scan
+        uses: github/codeql-action/analyze@v2
+
+  build:
+    needs: test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Build Documentation
+        run: echo "Aquí iría el proceso de build"
