@@ -11,12 +11,12 @@ Este repositorio documenta mi progreso en el mundo de la ciberseguridad. Desde l
 
 ## 🏆 Progreso
 
-- **Sprints Completados**: 4/10  
-- **Máquinas Resueltas**: 15/50  
-- **Certificaciones Obtenidas**: 1/3  
+- **Sprints Completados**: 0/10  
+- **Máquinas Resueltas**: 0/50  
+- **Certificaciones Obtenidas**: 0/3  
 
-![Progress](https://img.shields.io/badge/Sprints%20Completados-4%2F10-blue)  
-![Progress](https://img.shields.io/badge/M%C3%A1quinas%20Resueltas-15%2F50-green)
+![Progress](https://img.shields.io/badge/Sprints%20Completados-0%2F10-blue)  
+![Progress](https://img.shields.io/badge/M%C3%A1quinas%20Resueltas-0%2F50-green)
 
 ## 🛠️ Herramientas
 
