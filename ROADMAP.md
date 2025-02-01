@@ -13,7 +13,7 @@
   - Subnetting básico (calculadoras como [IP Subnet Calculator](https://www.calculator.net/ip-subnet-calculator.html)).  
 
 - **Recursos Visuales**:  
-  - **Infografía Interactiva**: Usa herramientas como [Canva](https://www.canva.com/) o [Lucidchart](https://www.lucidchart.com/) para crear un diagrama interactivo del modelo OSI/TCP/IP.  
+  - **Infografía Interactiva**: Usa herramientas como [Lucidchart](https://www.lucidchart.com/) para crear un diagrama interactivo del modelo OSI/TCP/IP.  
   - **Video Tutorial**: [CrashCourse Computer Science - Networking](https://www.youtube.com/watch?v=7_LPdttKXPc).  
 
 - **Práctica**:  
@@ -58,7 +58,7 @@
   - Wireshark (filtros básicos: `http`, `tcp.port==80`).  
 
 - **Recursos Visuales**:  
-  - **Tutorial Interactivo**: Usa [Nmap GUI](https://github.com/vanhauser-thc/Nmap-GUI) para aprender a usar Nmap de forma visual.  
+  - **Tutorial Interactivo**: Usa [Nmap GUI](https://github.com/daniel-cues/NMapGUI) para aprender a usar Nmap de forma visual.  
   - **Filtros Wireshark**: Crea una guía visual de los filtros más comunes en Wireshark.  
 
 - **Práctica**:  
