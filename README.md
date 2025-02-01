@@ -22,7 +22,7 @@ Este repositorio documenta mi progreso en el mundo de la ciberseguridad. Desde l
 
 - **GitHub Projects**: Usa el tablero Kanban para seguir el progreso.  
 - **Issues**: Cada sprint o máquina tiene su propio Issue para documentar tareas pendientes.  
-- **Wiki**: Documentación extensa en la [Wiki](https://github.com/tuusuario/turepositorio/wiki).
+- **Wiki**: Documentación extensa en la [Wiki](https://github.com/jaennova/cybersecurity/wiki).
 
 ## 🌟 Contribuciones
 
